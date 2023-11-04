@@ -11,8 +11,8 @@ package com.fidelitas.grupo1;
 public class Grupo1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+System.out.println("Hello World!");
         String nombre = "Eduardo";
-        String  edad = 19;
+        int edad = 19;
     }
 }
