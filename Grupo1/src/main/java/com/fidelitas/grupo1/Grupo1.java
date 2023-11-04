@@ -13,6 +13,6 @@ public class Grupo1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         String nombre = "Eduardo";
-        int edad = 19;
+        Double  edad = 19;
     }
 }
